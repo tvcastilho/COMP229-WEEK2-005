@@ -1,0 +1,22 @@
+{
+  "name": "week2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tvcastilho/COMP229-WEEK2-005.git"
+  },
+  "author": "Thiago Castilho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tvcastilho/COMP229-WEEK2-005/issues"
+  },
+  "homepage": "https://github.com/tvcastilho/COMP229-WEEK2-005#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
